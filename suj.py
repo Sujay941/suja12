@@ -1,1 +1,1 @@
-print("sujay" raj)
+print("sujay raj")
